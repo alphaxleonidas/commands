@@ -1,0 +1,3 @@
+ sudo systemctl restart systemd-resolved
+ sudo resolvectl flush-caches
+ sudo systemctl restart NetworkManager

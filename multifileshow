@@ -1,0 +1,10 @@
+Create a symlink so that all files in multiple folders show in one single folder
+
+
+# Create your "combined access" folder
+mkdir -p ~/quick-access
+
+# Symlink all files from multiple directories into it
+for dir in /path/to/folder1 /path/to/folder2 /path/to/folder3; do
+  ln -s "$dir"/* ~/quick-access/
+done

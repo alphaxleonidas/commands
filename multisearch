@@ -1,0 +1,1 @@
+javascript:(function(){let q=prompt('Enter your query:');if(q){open('https://www.perplexity.ai/search?q='+encodeURIComponent(q));open('https://copilot.microsoft.com/search?q='+encodeURIComponent(q));open('https://www.chatgpt.com/?q='+encodeURIComponent(q));}})()

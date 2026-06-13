@@ -1,0 +1,80 @@
+! May 10, 2026 https://copilot.microsoft.com
+copilot.microsoft.com##.text-xs.text-foreground-550
+copilot.microsoft.com##.dark\:bg-black\/10.shadow-xs.p-4.bg-white\/10.rounded-2xl.gap-2\.5.items-center.flex-row.max-w-md.flex.relative
+
+! May 10, 2026 https://chatgpt.com
+chatgpt.com##.leading-none.text-sm.dark-oled\:text-token-text-tertiary.text-token-text-secondary.pointer-events-auto
+chatgpt.com##.md\:gap-8.md\:justify-between.md\:items-center.md\:flex-row.flex-col.grow.flex > div.flex-col.flex > div
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+
+! May 10, 2026 https://scribe.heidihealth.com
+scribe.heidihealth.com##.mb-4.ease-out.duration-200.transition-shadow.sm\:gap-6.sm\:justify-between.sm\:items-center.sm\:flex-row.shadow-sm.py-2.px-4.gap-4.flex-col.flex.text-text-primary.bg-surface.\[\&\>svg\~\*\]\:pl-7.\[\&\>svg\]\:text-text-primary.\[\&\>svg\]\:top-4.\[\&\>svg\]\:left-4.\[\&\>svg\]\:absolute.\[\&\>svg\+div\]\:translate-y-\[-3px\].p-4.border.rounded-lg.w-full.relative
+
+! May 10, 2026 https://www.heidi.ai
+www.heidi.ai##.lg\:flex.hidden.gap-2.z-40.w-full.justify-center.items-center.py-3.px-10.text-primary.bg-sunlight
+
+! May 10, 2026 https://scribe.heidihealth.com
+scribe.heidihealth.com##.text-text-tertiary.text-center.mt-2.tracking-normal.leading-snug.font-normal.text-\[10px\]
+
+! May 10, 2026 https://www.heidi.ai
+www.heidi.ai##.w-full.max-w-container-lg.justify-between.items-center.flex
+www.heidi.ai##.backdrop-blur-sm.bg-white-80.w-full.h-18.px-global.justify-center.items-center.flex.z-49.top-0.sticky
+
+! May 10, 2026 https://glass.health
+glass.health##.sm\:py-5.shadow-lg.py-3.px-4.bg-white.border-t.z-50.bottom-0.inset-x-0.fixed
+
+! May 12, 2026 https://scribe.heidihealth.com
+||scribe.heidihealth.com/_next/static/media/evidence-signup-cta-modal-banner.9b104400.svg$image
+scribe.heidihealth.com##.sm\:p-8.p-6.gap-8.flex-col.w-full.flex
+||scribe.heidihealth.com/_next/static/media/evidence-signup-cta-modal-banner.9b104400.svg$image
+scribe.heidihealth.com##.backdrop-blur-\[5px\].to-surface-container.from-transparent.bg-gradient-to-b.z-20.inset-0.absolute
+||scribe.heidihealth.com/_next/static/media/evidence-signup-cta-modal-banner.9b104400.svg$image
+
+! May 12, 2026 https://chatgpt.com
+chatgpt.com##.pointer-events-auto.dark-oled\:text-token-text-tertiary.text-token-text-secondary > div
+
+
+
+! May 13, 2026 https://scribe.heidihealth.com
+||scribe.heidihealth.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsignInBackground.6ee26339.png&w=3840&q=75&dpl=dpl_CtnRSgP7gJPTCqtg5RNtREZd3uAg$image
+||scribe.heidihealth.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsignInBackground.6ee26339.png&w=3840&q=75&dpl=dpl_CtnRSgP7gJPTCqtg5RNtREZd3uAg$image
+scribe.heidihealth.com###radix-\:r4u\: > .p-8.gap-6.flex-col.flex
+||scribe.heidihealth.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsignInBackground.6ee26339.png&w=3840&q=75&dpl=dpl_CtnRSgP7gJPTCqtg5RNtREZd3uAg$image
+scribe.heidihealth.com###radix-\:r4u\:
+scribe.heidihealth.com##div.backdrop-blur-\[3px\].bg-black\/30.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.z-50.inset-0.fixed:nth-of-type(9)
+scribe.heidihealth.com##div.backdrop-blur-\[3px\].bg-black\/30.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.z-50.inset-0.fixed:nth-of-type(7)
+scribe.heidihealth.com##div.backdrop-blur-\[3px\].bg-black\/30.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.z-50.inset-0.fixed:nth-of-type(5)
+
+! May 13, 2026 https://glass.health
+glass.health##.sm\:justify-end.sm\:flex-row.gap-2.flex-col-reverse.flex.\[\.card--default_\&\]\:pt-0.\[\.card--default_\&\]\:p-6.items-center.w-full
+glass.health##.opacity-100.my-12.max-w-3xl.w-full.gap-0.border-gray-200.border.rounded-xl.bg-card.card--default.p-6.overflow-hidden.justify-start.items-start.flex-col.flex.text-card-foreground
+glass.health##.bg-white\/30.backdrop-blur-sm.justify-center.items-start.size-full.flex
+glass.health##.overflow-scroll.max-h-dvh.rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-w-lg.w-\[95vw\].grid.z-50.top-\[50\%\].left-\[50\%\].absolute
+glass.health##.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.bg-black\/80.z-50.inset-0.absolute
+glass.health##.rounded-lg.data-\[state\=open\]\:slide-in-from-top-\[48\%\].data-\[state\=open\]\:slide-in-from-left-1\/2.data-\[state\=closed\]\:slide-out-to-top-\[48\%\].data-\[state\=closed\]\:slide-out-to-left-1\/2.data-\[state\=open\]\:zoom-in-95.data-\[state\=closed\]\:zoom-out-95.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.duration-200.shadow-lg.p-6.bg-background.border.gap-4.translate-y-\[-50\%\].translate-x-\[-50\%\].max-h-\[95dvh\].max-w-lg.w-\[95vw\].grid.z-50.top-\[50\%\].left-\[50\%\].absolute
+
+! May 13, 2026 https://scribe.heidihealth.com
+scribe.heidihealth.com###radix-\:r7d\: > .xl\:flex.rounded-l-2xl.overflow-hidden.justify-center.items-center.flex-col.hidden.relative
+scribe.heidihealth.com###radix-\:r7d\: > .p-8.gap-6.flex-col.flex
+scribe.heidihealth.com##div.backdrop-blur-\[3px\].bg-black\/30.data-\[state\=open\]\:fade-in-0.data-\[state\=closed\]\:fade-out-0.data-\[state\=closed\]\:animate-out.data-\[state\=open\]\:animate-in.z-50.inset-0.fixed:nth-of-type(3)
+
+! May 15, 2026 https://ahtishamdogar.medium.com
+ahtishamdogar.medium.com##.e.wh.wg.wf.we.wd
+
+! May 21, 2026 https://emedicine.medscape.com
+emedicine.medscape.com##.active.layer-greyout
+
+! May 23, 2026 https://chatgpt.com
+chatgpt.com##.text-wrap.text-sm.mb-6
+
+! May 26, 2026 https://urlebird.com
+urlebird.com##.video-overlay-aads-frame
+
+! Jun 11, 2026 https://www.perplexity.ai
+www.perplexity.ai##.md\:pb-lg.md\:pt-lg.justify-center.flex-col.flex.grow.p-md
+www.perplexity.ai##.flex-col.flex.divide-subtlest.ring-subtlest.border-subtlest.border-t.w-screen.md\:grow-\[unset\].md\:w-\[unset\].rounded-none.grow.h-full
+www.perplexity.ai##.flex-col.flex.h-\[100dvh\].md\:h-screen.w-screen.backdrop-blur-sm.bg-backdrop.bg-none.fill-mode-both.scrollbar-subtle.overflow-y-auto.shadow-md
+www.perplexity.ai##.justify-center.items-center.flex.overflow-y-auto.inset-0.fixed
+www.perplexity.ai##.backdrop-blur-sm.duration-200.ease-outExpo.fade-in.animate-in.bg-backdrop.inset-0.fixed.fill-mode-both.md\:items-center.items-stretch
+www.perplexity.ai##.backdrop-blur-md.duration-200.ease-outExpo.fade-in.animate-in.bg-lightbox\/95.inset-0.fixed.fill-mode-both.md\:items-center.items-stretch
+

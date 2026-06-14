@@ -1,0 +1,9 @@
+ Character | Name                                  | Unicode (hex) | Unicode (decimal) 
+ ├         | BOX DRAWINGS LIGHT VERTICAL AND RIGHT | U+251C        | 9500              
+ └         | BOX DRAWINGS LIGHT UP AND RIGHT       | U+2514        | 9492              
+ │         | BOX DRAWINGS LIGHT VERTICAL           | U+2502        | 9474              
+ ─         | BOX DRAWINGS LIGHT HORIZONTAL         | U+2500        | 9472              
+ ┌         | BOX DRAWINGS DOWN LIGHT AND RIGHT     | U+250C        | 9484              
+ ┐         | BOX DRAWINGS DOWN AND LEFT            | U+2510        | 9488              
+ ┘         | BOX DRAWINGS UP AND LEFT              | U+2518        | 9496              
+ ┗         | BOX DRAWINGS UP LIGHT AND LEFT        | U+2517        | 9495              

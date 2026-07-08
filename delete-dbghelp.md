@@ -1,7 +1,7 @@
 Checks files:
 ```
   
-find /mnt/BTRFSdrive/EpicGames /mnt/MyDrives/NTFSdrive/EpicGames /mnt/BTRFSdrive/Games /mnt/MyDrives/NTFSdrive/Games /mnt/BTRFSdrive/SteamLibrary/steamapps/common /mnt/MyDrives/NTFSdrive/SteamLibrary/steamapps/common \
+find /mnt/BTRFSdrive/EpicGames /mnt/MyDrives/NTFSdrive/EpicGames /mnt/BTRFSdrive/Games /mnt/MyDrives/NTFSdrive/Games /mnt/MyDrives/NTFSdrive/SteamLibrary/steamapps/common \
         -type f -path "*/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll" -print -delete 
 
 
@@ -9,7 +9,7 @@ find /mnt/BTRFSdrive/EpicGames /mnt/MyDrives/NTFSdrive/EpicGames /mnt/BTRFSdrive
 
 Deletes files:
 ```
-  find /mnt/BTRFSdrive/EpicGames /mnt/MyDrives/NTFSdrive/EpicGames /mnt/BTRFSdrive/Games /mnt/MyDrives/NTFSdrive/Games /mnt/BTRFSdrive/SteamLibrary/steamapps/common /mnt/MyDrives/NTFSdrive/SteamLibrary/steamapps/common \
+  find /mnt/BTRFSdrive/EpicGames /mnt/MyDrives/NTFSdrive/EpicGames /mnt/BTRFSdrive/Games /mnt/MyDrives/NTFSdrive/Games /mnt/MyDrives/NTFSdrive/SteamLibrary/steamapps/common \
         -type f -path "*/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll" -print -delete 
 ```
 

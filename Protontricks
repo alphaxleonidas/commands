@@ -1,0 +1,1 @@
+PROTON_VERSION='Proton Experimental' STEAM_COMPAT_DATA_PATH="$HOME/.local/share/Steam/steamapps/compatdata/489830" protontricks -vv 489830 xact_x64

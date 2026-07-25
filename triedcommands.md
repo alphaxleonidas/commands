@@ -10,6 +10,6 @@ done
 
 killall gnome-keyring-daemon
 
-
+sudo nano /etc/pam.d/lightdm
 
 

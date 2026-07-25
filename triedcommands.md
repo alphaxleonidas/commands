@@ -13,3 +13,21 @@ killall gnome-keyring-daemon
 sudo nano /etc/pam.d/lightdm
 
 
+sudo chmod -x /usr/bin/gnome-keyring-daemon
+
+
+systemctl --user status gnome-keyring-daemon.service
+
+
+ps aux | grep gnome-keyring
+
+
+grep -rn "pam_gnome_keyring.so" /etc/pam.d/
+
+
+sudo sed -i '/pam_gnome_keyring.so/s/^/#/' /etc/pam.d/lightdm-greeter
+sudo sed -i '/pam_gnome_keyring.so/s/^/#/' /etc/pam.d/cinnamon-screensaver
+sudo sed -i '/pam_gnome_keyring.so/s/^/#/' /etc/pam.d/common-password
+
+
+sudo chmod -x /usr/bin/gnome-keyring-daemon

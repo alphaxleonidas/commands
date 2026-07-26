@@ -40,3 +40,6 @@ systemctl --user mask gnome-keyring-daemon.service gnome-keyring-daemon.socket
 ```
 sudo chmod -x /usr/bin/gnome-keyring-daemon
 ```
+```
+systemctl --user status gnome-keyring-daemon.service
+```
